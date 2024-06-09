@@ -1,0 +1,57 @@
+{
+  "XPATH": {
+    "logga_in_med_bank_id": "//*[ contains (text(), 'Logga in med bank-id' ) ]",
+    "tanka_pa_nar_du_aktivitetsrapporterar": "//*[@id='arw-container']//h2[contains(text(), 'Att tänka på när du aktivitetsrapporterar')]",
+    "min_aktivitetsrapport": "//h1[contains(text(), 'Min aktivitetsrapport')]",
+    "lagg_till_aktiviteter_button": "//button[descendant::span[contains(text(), 'Lägg till aktiviteter')]]",
+    "lagg_till_aktiviteter_text": "//h1[contains(text(), 'Lägg till aktiviteter')]",
+    "aktivitets_rapport": "//*[@id='svid12_2bef8e33170a57d956511636']/asms-root/div/div[2]/div/div/div[2]/asms-start-page/div/div[2]/asms-apps/aside/div/div/div/asms-my-services/nav/ul/li[1]/digi-link-button",
+    "pop_up_close_button": "/html/body/div[1]/div[2]/div[7]/div/div/main/div[3]/div/div/div[2]/div/div/div/div/div[3]/div/div/div[3]/arw-root/section/ng-component/arw-onboarding/digi-ng-dialog-base/div/digi-ng-transition-fade/div/div/digi-ng-card/div/div/div/digi-ng-layout-segment/div/div/div[6]/digi-ng-button",
+    "search_how_text": "//span[contains(text(), 'Hur har du sökt jobbet?')]",
+    "radio_Button_Sokt_Jobb": "//input[@value='soktjobb']",
+    "radio_Button_Spontanansokan": "//input[@value='intresseanmalan']",
+    "radio_Button_country_sweden": "//input[@value='SVERGIE']",
+    "radio_Button_country_unspecified": "//input[@value='Obestämd locality']",
+    "radio_Button_country_abroad": "//input[@value='Utomlands']",
+    "save_button": "//button[descendant::div[contains(text(), 'Spara')]]",
+    "add_activity_header": "//h1[contains(text(), 'Lägg till aktiviteter')]",
+    "interview_button": "//text()[contains(.,'Intervjuer')]/ancestor::*[self::button][1]",
+    "interview_form_header": "//h2[@class='h4'][contains(text(), 'Intervjuer')]",
+    "interview_form_job": "//input[@name='soktTjanst' and @placeholder='Typ av job']",
+    "date_button": "//button[@aria-label='Välj dag']",
+    "skatteverk_popup_accept": "//input[@value=Acceptera och Installera and ancestor::div[@id=sconnect-dialog-box]]",
+    "login_button_pass_user": "//button[contains(text(), 'Logga in') and ancestor::form[@id='konto']]"
+  },
+  "ID": {
+    "cookie_decline": "afCookieDecline",
+    "bankID": "svid12_3c6564ea18e54e44f188bd",
+    "freja": "svid12_3c6564ea18e54e44f188c0",
+    "normal_id": "svid12_3c6564ea18e54e44f188c3",
+    "foreign_id": "svid12_3c6564ea18e54e44f188c6",
+    "password": "svid12_3c6564ea18e54e44f188c9",
+    "freja_header": "heading_for_non_desktop",
+    "skatteverk_popup_header": "sconnect-dialog-title",
+    "login_button_2": "loginButton2",
+    "asms_h1_heading": "asms-h1-heading",
+    "radio_buttons_container": "soktjobb-typ",
+    "soktjobb_arbetsgivare": "soktjobb-employer",
+    "intresseanmalan_arbetsgivare": "intresseanmalan-employer",
+    "soktjobb_soktTjanst": "soktjobb-soktTjanst",
+    "intresseanmalan_soktTjanst": "intresseanmalan-soktTjanst",
+    "soktjobb_ort": "soktjobb-locality",
+    "intresseanmalan_ort": "intresseanmalan-locality",
+    "interview_form_employer": "intervju-employer",
+    "interview_form_locality": "intervju-locality",
+    "username_input": "username",
+    "password_input": "txtLosen"
+  },
+  "CLASS_NAME": {
+    "function_nav_item": "functions-nav__item"
+  },
+  "CSS_SELECTOR": {
+
+  },
+  "TAG": {
+
+  }
+}

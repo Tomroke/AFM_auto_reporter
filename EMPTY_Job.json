@@ -1,0 +1,97 @@
+{
+  "emptySearch": {
+    "work": [
+      {
+        "searched": "soktjobb OR intresseanmalan",
+        "job": "",
+        "employer": "",
+        "country": "sweden, unspecified or abroad",
+        "locality": "",
+        "day": 0
+      }
+    ],
+    "interviews": [
+      {
+        "employer": "",
+        "job": "",
+        "country": "sweden, unspecified or abroad",
+        "locality": "",
+        "day": 0
+      }
+    ]
+  },
+  "2024": {
+    "januari": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "februari": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "mars": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "april": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "maj": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "juni": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "juli": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "augusti": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "september": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "oktober": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "november": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    },
+    "december": {
+      "work": [
+      ],
+      "interviews": [
+      ]
+    }
+  }
+}
