@@ -1,0 +1,391 @@
+{
+  "emptySearch": {
+    "work": [
+          {
+            "searched": "soktjobb OR intresseanmalan",
+            "job": "",
+            "employer": "",
+            "country": "sweden, unspecified or abroad",
+            "locality": "",
+            "day": 0
+          }
+        ],
+    "interviews": [
+      {
+        "employer": "",
+        "job": "",
+        "country": "sweden, unspecified or abroad",
+        "locality": "",
+        "day": 0
+      }
+    ]
+  },
+  "2024": {
+      "januari": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "februari": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "mars": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "april": {
+        "work": [
+          {
+            "searched": "soktjobb",
+            "employer": "Frenda",
+            "job": "Programmerare",
+            "locality": "Stockholm",
+            "day": 5
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Professionals Nord",
+            "job": "IT Helpdesk",
+            "locality": "Stockholm",
+            "day": 6
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Sopra Steria",
+            "job": "Programmerare",
+            "locality": "Stockholm",
+            "day": 8
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Softronic AB",
+            "job": "Programmerare",
+            "locality": "Stockholm",
+            "day": 7
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Experis Sverige",
+            "job": "Programmerare",
+            "locality": "Stockholm",
+            "day": 9
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Omegapoint",
+            "job": "Programmerare",
+            "locality": "Stockholm",
+            "day": 12
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Lumera",
+            "job": "Programmerare",
+            "locality": "Stockholm",
+            "day": 14
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Billogram",
+            "job": "Programmerare",
+            "locality": "Stockholm",
+            "day": 14
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Nordlog Skandinavien AB",
+            "job": "Sommarjobb",
+            "locality": "Stockholm",
+            "day": 16
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Impressive Relations",
+            "job": "Sommarjobb",
+            "locality": "Stockholm",
+            "day": 17
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Clevry",
+            "job": "Sommarjobb",
+            "locality": "Stockholm",
+            "day": 17
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Schneider Electric",
+            "job": "Sommarjobb",
+            "locality": "Stockholm",
+            "day": 19
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Ekbergs Fönsterputs & Städ",
+            "job": "Sommarjobb",
+            "locality": "Stockholm",
+            "day": 20
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Smoothie Sweden AB",
+            "job": "Sommarjobb",
+            "locality": "Stockholm",
+            "day": 22
+          }
+        ],
+        "interviews": [
+          {
+            "employer": "Test",
+            "job": "Test",
+            "locality": "Test",
+            "day": 5
+          }
+        ]
+      },
+      "maj": {
+        "work": [
+        ],
+        "interviews": [
+          {
+            "employer": "House of How",
+            "job": "QA Engineer",
+            "country": "sweden",
+            "locality": "Boden",
+            "day": 30
+          }
+        ]
+      },
+      "juni": {
+        "work": [
+          {
+            "searched": "soktjobb",
+            "job": "Glassplockare",
+            "employer": "Meet a Groups kund",
+            "country": "sweden",
+            "locality": "borås",
+            "day": 10
+          },
+          {
+            "searched": "soktjobb",
+            "job": "Extra Jobb",
+            "employer": "Pokayoke AB",
+            "country": "sweden",
+            "locality": "Borås",
+            "day": 10
+          },
+          {
+            "searched": "soktjobb",
+            "job": "Test Automation Engineer",
+            "employer": "Paradox Interactive",
+            "country": "sweden",
+            "locality": "Stockholm",
+            "day": 10
+          },
+          {
+            "searched": "soktjobb",
+            "job": "QA Automation Engineer",
+            "employer": "Strawberry",
+            "country": "sweden",
+            "locality": "Stockholm",
+            "day": 10
+          },
+          {
+            "searched": "soktjobb",
+            "job": "Test Automation Engineer",
+            "employer": "HiQ",
+            "country": "sweden",
+            "locality": "Stockholm",
+            "day": 10
+          },
+          {
+            "searched": "soktjobb",
+            "job": "Quality Assurance Specialist",
+            "employer": "Instabridge",
+            "country": "sweden",
+            "locality": "Stockholms",
+            "day": 10
+          },
+          {
+            "searched": "soktjobb",
+            "job": "Junior Engineer",
+            "employer": "Xamera",
+            "country": "sweden",
+            "locality": "Stockholm",
+            "day": 13
+          },
+          {
+            "searched": "soktjobb",
+            "job": "Developer",
+            "employer": "Fortnox AB",
+            "country": "sweden",
+            "locality": "Växjö",
+            "day": 17
+          },
+          {
+            "searched": "soktjobb",
+            "job": "",
+            "employer": "",
+            "country": "sweden",
+            "locality": "",
+            "day": 0
+          },
+          {
+            "searched": "soktjobb",
+            "job": "",
+            "employer": "",
+            "country": "sweden",
+            "locality": "",
+            "day": 0
+          },
+          {
+            "searched": "soktjobb",
+            "job": "",
+            "employer": "",
+            "country": "sweden",
+            "locality": "",
+            "day": 0
+          },
+          {
+            "searched": "soktjobb",
+            "job": "",
+            "employer": "",
+            "country": "sweden",
+            "locality": "",
+            "day": 0
+          },
+          {
+            "searched": "soktjobb",
+            "job": "",
+            "employer": "",
+            "country": "sweden",
+            "locality": "",
+            "day": 0
+          }
+        ],
+        "interviews": [
+          {
+            "employer": "",
+            "job": "",
+            "country": "sweden, unspecified or abroad",
+            "locality": "",
+            "day": 0
+          }
+        ]
+      },
+      "juli": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "augusti": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "september": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "oktober": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "november": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "december": {
+        "work": [
+          {
+            "searched": "",
+            "employer": "",
+            "job": "",
+            "locality": "",
+            "day": 5
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      }
+    }
+}

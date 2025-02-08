@@ -20,6 +20,6 @@
 | Finish the README                            | 10%        | The readme should contain all that is needed for a n00b to use this program.                                                   |
 | Group files in folders                       | 100%       | For quality of life the files should be grouped into folders.                                                                  |
 | Add alternative way to read data             | 100%       | For those with JSON experience there should be a way to read the data from a txt file.                                         |
-|                                              | 0%         |                                                                                                                                |
+| Place drivers inside project                 | 0%         | For ease of use and to let less tech savvy users use the program it would be good to have the drivers as part of the program   |
 
 

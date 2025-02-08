@@ -108,7 +108,7 @@ def test_main(driver_fixture, login_fixture, month_fixture):
     assert_element_text(driver, By.XPATH, SELECTORS['XPATH']["min_aktivitetsrapport"], ASSERT_TEXT["aktivitetsrapport"], 3, 0)
 
     # Start adding activities
-    click_button(driver, By.XPATH, SELECTORS['XPATH']["lagg_till_aktiviteter_button"], 1, 2)
+    click_1<button(driver, By.XPATH, SELECTORS['XPATH']["lagg_till_aktiviteter_button"], 1, 2)
 
     # Verify that the add activity page is displayed
     assert_element_text(driver, By.XPATH, SELECTORS['XPATH']["lagg_till_aktiviteter_text"], ASSERT_TEXT["add_activity"], 3, 0)
