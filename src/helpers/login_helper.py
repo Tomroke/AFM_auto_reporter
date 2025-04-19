@@ -5,14 +5,14 @@ from selenium.webdriver.common.by import By
 def interact_with_login_select_button(driver, selector):
     # Select which way to login
     sleep(1)
-    login_button_element = driver.find_element(By.ID, selector)
+    login_button_element = driver.find_element(By.XPATH, selector)
     login_button_element.is_displayed()
     login_button_element.click()
     sleep(3)
 
 def bankid(driver, SELECTORS):
     # Select bankID as login option
-    interact_with_login_select_button(driver, SELECTORS['ID']['bankID'])
+    interact_with_login_select_button(driver, SELECTORS['XPATH']['bankID'])
 
     # Log in with bankID
     sleep(1)

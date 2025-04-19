@@ -387,5 +387,182 @@
           {}
         ]
       }
-    }
+    },
+  "2025": {
+      "januari": {
+        "work": [
+          {
+            "searched": "soktjobb",
+            "employer": "Lidl",
+            "job": "Butikssäljare",
+            "locality": "Borås",
+            "day": 12
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Bröderna Röj",
+            "job": "Snöskottare",
+            "locality": "Borås",
+            "day": 25
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "OKQ8",
+            "job": "Butikssäljare",
+            "locality": "Borås",
+            "day": 7
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Borås stad",
+            "job": "Vikarie för simhallar",
+            "locality": "Borås",
+            "day": 18
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Borås stad",
+            "job": "Vikarie för bibliotek",
+            "locality": "Borås",
+            "day": 22
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "B3 Mobile",
+            "job": "UI Testautomatisering Ingenjör",
+            "locality": "Stockholm",
+            "day": 3
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Circle K",
+            "job": "Säljare",
+            "locality": "Borås",
+            "day": 14
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Västra Götalandsregionen",
+            "job": "Sjukhusvaktmästare",
+            "locality": "Borås",
+            "day": 9
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Lyreco via Jefferson Wells",
+            "job": "IT Support",
+            "locality": "Borås",
+            "day": 26
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "HSB",
+            "job": "Fastighetsskötare",
+            "locality": "Borås",
+            "day": 5
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "Spinit",
+            "job": "Testare / QA till systemutvecklingsteam",
+            "locality": "Göteborg",
+            "day": 28
+          },
+          {
+            "searched": "soktjobb",
+            "employer": "UNIT Sweden AB",
+            "job": "IT-Konsult",
+            "locality": "Borås",
+            "day": 16
+          }
+        ],
+        "interviews": [
+          {}
+        ]
+      },
+      "februari": {
+    "work": [
+          {
+            "searched": "soktjobb OR intresseanmalan",
+            "job": "",
+            "employer": "",
+            "country": "sweden, unspecified or abroad",
+            "locality": "",
+            "day": 0
+          }
+        ],
+    "interviews": [
+      {
+        "employer": "",
+        "job": "",
+        "country": "sweden, unspecified or abroad",
+        "locality": "",
+        "day": 0
+      }
+    ]
+      },
+      "mars": {
+    "work": [
+          {
+            "searched": "soktjobb OR intresseanmalan",
+            "job": "",
+            "employer": "",
+            "country": "sweden, unspecified or abroad",
+            "locality": "",
+            "day": 0
+          }
+        ],
+    "interviews": [
+      {
+        "employer": "",
+        "job": "",
+        "country": "sweden, unspecified or abroad",
+        "locality": "",
+        "day": 0
+      }
+    ]
+      },
+      "april": {
+    "work": [
+          {
+            "searched": "soktjobb OR intresseanmalan",
+            "job": "",
+            "employer": "",
+            "country": "sweden, unspecified or abroad",
+            "locality": "",
+            "day": 0
+          }
+        ],
+    "interviews": [
+      {
+        "employer": "",
+        "job": "",
+        "country": "sweden, unspecified or abroad",
+        "locality": "",
+        "day": 0
+      }
+    ]
+      },
+      "maj": {
+    "work": [
+          {
+            "searched": "soktjobb OR intresseanmalan",
+            "job": "",
+            "employer": "",
+            "country": "sweden, unspecified or abroad",
+            "locality": "",
+            "day": 0
+          }
+        ],
+    "interviews": [
+      {
+        "employer": "",
+        "job": "",
+        "country": "sweden, unspecified or abroad",
+        "locality": "",
+        "day": 0
+      }
+    ]
+      }
+  }
 }

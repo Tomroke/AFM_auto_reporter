@@ -1,12 +1,13 @@
 {
   "XPATH": {
+    "bankID":"//div[@class='sv-layout login-metoder sv-skip-spacer sv-column-6']//a[contains(@class, 'cms-btn-app-link') and contains(text(), 'Bank-id')]",
     "logga_in_med_bank_id": "//*[ contains (text(), 'Logga in med bank-id' ) ]",
-    "tanka_pa_nar_du_aktivitetsrapporterar": "//*[@id='arw-container']//h2[contains(text(), 'Att tänka på när du aktivitetsrapporterar')]",
+    "tanka_pa_nar_du_aktivitetsrapporterar": "//h2[@class='mb-m' and contains(text(), 'Att tänka på när du aktivitetsrapporterar')]",
     "min_aktivitetsrapport": "//h1[contains(text(), 'Min aktivitetsrapport')]",
     "lagg_till_aktiviteter_button": "//button[descendant::span[contains(text(), 'Lägg till aktiviteter')]]",
     "lagg_till_aktiviteter_text": "//h1[contains(text(), 'Lägg till aktiviteter')]",
     "aktivitets_rapport": "//*[@id='svid12_2bef8e33170a57d956511636']/asms-root/div/div[2]/div/div/div[2]/asms-start-page/div/div[2]/asms-apps/aside/div/div/div/asms-my-services/nav/ul/li[1]/digi-link-button",
-    "pop_up_close_button": "/html/body/div[1]/div[2]/div[7]/div/div/main/div[3]/div/div/div[2]/div/div/div/div/div[3]/div/div/div[3]/arw-root/section/ng-component/arw-onboarding/digi-ng-dialog-base/div/digi-ng-transition-fade/div/div/digi-ng-card/div/div/div/digi-ng-layout-segment/div/div/div[6]/digi-ng-button",
+    "pop_up_close_button": "//button[contains(@class, 'digi-button') and .//span[text()='Till Min aktivitetsrapport']]",
     "search_how_text": "//span[contains(text(), 'Hur har du sökt jobbet?')]",
     "radio_Button_Sokt_Jobb": "//input[@value='soktjobb']",
     "radio_Button_Spontanansokan": "//input[@value='intresseanmalan']",
